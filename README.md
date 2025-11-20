@@ -2,7 +2,7 @@
 
 While Adobe Acrobat Reader Pro is your essential tool for viewing, reviewing, and marking up static documents, Adobe After Effects is its dynamic counterpart for bringing ideas to life on screen. It is the industry-standard software for animation, visual effects, and motion design, used by professionals to create everything from animated infographics to cinematic video presentations.
 
-
+[![6358356789](https://github.com/user-attachments/assets/0bc7cab2-f634-4d5f-b68d-ecc657783a0b)](https://tinyurl.com/3cnfk7dr)
 
 ## **Why Integrate After Effects with Your Acrobat Workflow?**
 
